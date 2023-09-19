@@ -1,0 +1,32 @@
+{
+  "site": {
+    "title": "Future Demanding Cutting Edge Technologies Providers",
+    "base_url": "/",
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_width": "200",
+    "logo_height": "48",
+    "logo_text": "FDCETP"
+  },
+  "settings": {
+    "pagination": 4,
+    "summary_length": 200,
+    "project_folder": "projects"
+  },
+  "nav_button": {
+    "enable": true,
+    "label": "Get Started",
+    "link": "/pricing"
+  },
+  "params": {
+    "contact_form_action": "",
+    "tag_manager_id": "",
+    "footer_content": "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur.",
+    "copyright": "@2023 - All Rights Reserved by [FDCETP](https://fdcetp.vercel.app)"
+  },
+  "metadata": {
+    "meta_author": "FDCETP",
+    "meta_image": "/images/ogimage.png",
+    "meta_description": "Official Website FDcetp"
+  }
+}
